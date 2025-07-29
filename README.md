@@ -68,7 +68,7 @@ Comment convertir les **usagers occasionnels** en **membres annuels** grâce à 
 
 ## ✨ Auteur
 
-Projet réalisé dans le cadre de ma formation en data analyse.
+Projet réalisé par Angéline T. - Data Analyst Junior dans le cadre de formation.
 
 N’hésitez pas à me contacter pour en discuter ou proposer des améliorations !
 
