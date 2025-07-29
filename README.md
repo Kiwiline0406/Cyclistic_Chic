@@ -60,7 +60,6 @@ Comment convertir les **usagers occasionnels** en **membres annuels** grâce à 
 | Dossier/Fichier        | Description                                      |
 |------------------------|--------------------------------------------------|
 | `Notebook.ipynb`       | Données sources (extrait ou lien externe)        |
-| `Dashboard.pbix`       | Fichier Power BI                                 |
 | `Cyclistic.pptx`       | Présentation Powerpoint                          |
 | `README.md`            | Présentation du projet                           |
 
